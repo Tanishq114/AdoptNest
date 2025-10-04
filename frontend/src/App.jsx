@@ -9,7 +9,7 @@ import Login from "./pages/Login";
 import MysteryPetGenerator from "./pages/MysteryPetGenerator";
 import { AuthContext } from "./context/authContext";
 import "./pages/LandingCss.css";
-
+//dmfjkdshfdsdmm,dfnds
 // Import new pages for the required features
 import PetQuiz from "./pages/PetQuiz";
 import PetGallery from "./pages/PetGallery";
